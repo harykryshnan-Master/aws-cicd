@@ -1,4 +1,4 @@
-# Use the official OpenJDK 17 image from Docker Hub
+# Use the official OpenJDK 24 image from Docker Hub
 FROM openjdk:24
 # Set working directory inside the container
 WORKDIR /app
